@@ -1,0 +1,9 @@
+name = "worker"
+type = "javascript"
+account_id = "your-cloudflare-account-id"
+workers_dev = true
+route = ""
+zone_id = "your-cloudflare-zone-id"
+
+[env.production]
+route = "example.com/metrics"

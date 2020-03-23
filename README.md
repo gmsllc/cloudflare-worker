@@ -6,7 +6,7 @@ Documentation available here: https://docs.fingerprintjs.com/pro/integrations/cl
 
 MIT Licensed.
 
-Copyright Fingerprint.js PRO, 2019.
+Copyright FingerprintJS Pro, 2020.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE

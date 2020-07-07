@@ -16,7 +16,8 @@ addEventListener('fetch', event => {
 
 async function handleRequest(request) {
   const remoteClientIP = request.headers.get("CF-Connecting-IP")
-
+  // IMPORTANT: 
+  // if you're using the EU endpoint, use https://eu.api.fpjs.io URL instead.
   const apiUrl = "https://api.fpjs.io";
 
   const headers = {
